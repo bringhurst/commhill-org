@@ -8,16 +8,17 @@ The Communications Hill area has several active construction projects. This page
 
 If you would like to [propose or update content](https://github.com/typeobject/commhill-org/issues/new) on this page, please keep in mind the [geographic boundary to Communications Hill](https://static-www.commhill.org/pdf/CommHill_neighprofilesPDF15017.pdf). Please only include construction projects within or bordering the neighborhood.
 
-_This page was last updated on July 30th, 2021._
+_This page was last updated on August 3rd, 2024._
 
 # KB Home's Residential Construction
 - The Village Center (retail) [will be located here](https://www.openstreetmap.org/way/833395521). For detailed plans for the Village Center [see this document](https://static-www.commhill.org/pdf/FilePDA1403505VillageCenter.pdf).
 - For details on all proposed public parks, [see this document](https://static-www.commhill.org/pdf/commhillParklandFacilities.pdf).
 - An overview of the construction can be found on the [city-maintained landing page](https://www.sanjoseca.gov/your-government/departments/planning-building-code-enforcement/planning-division/projects-of-high-interest/approved-under-construction/communications-hill).
-- Search the [San Jose Permits](https://sjpermits.org/permits/general/combinedquery.asp) website for the address "0 CURTNER" if you're interested in detailed information on (almost) daily construction activity.
+- Search the [San Jose Permits](https://sjpermits.org/permits/general/combinedquery.asp) website for the address "0 CURTNER" if you're interested in detailed information on (almost) daily construction activity. Recent grading activity is included under property ID "100902".
 - For detailed air quality data, please see [the site maintained by KB Home](https://www.kbhome.com/communicationshill).
 - For details on the upcoming grading project for phases 3 and 4, please see the [plan submitted to the city](https://static-www.commhill.org/pdf/45042487.pdf).
 - For a basic construction schedule, see page 34 of [this document](https://static-www.commhill.org/pdf/commhillAppendixEAirQuality.pdf).
+- For details on grading operations, see [this document](https://static-www.commhill.org/pdf/2024-08-01-grading-plan-45545594.pdf).
 
 # Franklin-McKinley School Project
 - After a [letter from the property owner](https://static-www.commhill.org/pdf/CommunicationHillLetterToFMSD.pdf) was sent, a [resolution to start](https://static-www.commhill.org/pdf/Resolution2021-12-IntentToConstructSchoolOnDonatedProperty.pdf) the process of formally investigating and constructing a school passed on April 13th, 2021.
